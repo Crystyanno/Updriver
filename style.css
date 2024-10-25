@@ -35,7 +35,8 @@ a{
 }
 
 .degrade{
-    background: linear-gradient(to right, #D9B13B, #D9B13B);
+    background: linear-gradient(to right, #5e5e5e, #D9B13B);
+    opacity: 0.7;
 }
 
 /* ESTILO DO HEADER */
